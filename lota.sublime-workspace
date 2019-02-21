@@ -1,0 +1,1109 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"lo",
+				"logodrk"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"foo",
+				"footer-content"
+			],
+			[
+				"fade",
+				"fadeOutDown"
+			],
+			[
+				"toggl",
+				"toggleClass"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"a",
+				"default"
+			],
+			[
+				"fl",
+				"flex-wrap"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"e",
+				"ease-in-out"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"abou",
+				"about"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"about",
+				"about-text"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"abo",
+				"about-text"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ao",
+				"about-bg"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"head",
+				"header_bg"
+			],
+			[
+				"slide",
+				"slidebg"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"g",
+				"brightness()"
+			],
+			[
+				"heade",
+				"header-text"
+			],
+			[
+				"anim",
+				"animated"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"header",
+				"header-text"
+			],
+			[
+				"righ",
+				"rightArrow"
+			],
+			[
+				"left",
+				"leftArrow"
+			],
+			[
+				"up",
+				"upArrowAnimation"
+			],
+			[
+				"na",
+				"navbarAnimation"
+			],
+			[
+				"pre",
+				"prevSlide"
+			],
+			[
+				"nex",
+				"nextSlide"
+			],
+			[
+				"ge",
+				"getScreenSide"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"cha",
+				"changePointerDirection"
+			],
+			[
+				"cu",
+				"currentSlide"
+			],
+			[
+				"scre",
+				"screenWidth"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"login",
+				"loginBusiness"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"col-xs",
+				"col-xs-3"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"show",
+				"showForm"
+			],
+			[
+				"settingForm",
+				"securitySettingForm"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"form",
+				"formToShow"
+			],
+			[
+				"col-lg",
+				"col-lg-12"
+			],
+			[
+				"user",
+				"userSettings"
+			],
+			[
+				"imae",
+				"images"
+			],
+			[
+				"p",
+				"pID"
+			],
+			[
+				"rece",
+				"receipt"
+			],
+			[
+				"logo",
+				"logoblack"
+			],
+			[
+				"beaon",
+				"beaconPos"
+			],
+			[
+				"beac",
+				"beaconMarkers"
+			],
+			[
+				"add",
+				"addMarkerWithTimeout"
+			],
+			[
+				"beacon",
+				"beaconMarkers"
+			],
+			[
+				"beao",
+				"beaconPos"
+			],
+			[
+				"be",
+				"beacons"
+			],
+			[
+				"set",
+				"setUpMap"
+			],
+			[
+				"sc",
+				"scale()"
+			],
+			[
+				"vid",
+				"video_url"
+			],
+			[
+				"gloa",
+				"global"
+			],
+			[
+				"ad_typ",
+				"ad_type"
+			],
+			[
+				"obj",
+				"obj1"
+			],
+			[
+				"wo",
+				"window"
+			],
+			[
+				"Res",
+				"response"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"jsn",
+				"json_encode"
+			],
+			[
+				"fi",
+				"file_detailsJSON"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"file",
+				"file_detailsJSON"
+			],
+			[
+				"curl",
+				"curl_close"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"getAD",
+				"getAdInfo"
+			],
+			[
+				"stat",
+				"statsJSON"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"video",
+				"videoID"
+			],
+			[
+				"UR",
+				"CURLOPT_URL"
+			],
+			[
+				"CURL",
+				"CURLOPT_RETURNTRANSFER"
+			],
+			[
+				"cur",
+				"curl"
+			],
+			[
+				"ad",
+				"ad_type"
+			],
+			[
+				"ly",
+				"lyricPage"
+			],
+			[
+				"lyri",
+				"lyric_url"
+			],
+			[
+				"temp",
+				"tempArray"
+			],
+			[
+				"hit",
+				"hits"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"time",
+				"timeInterval"
+			],
+			[
+				"auth",
+				"auth_success"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"au",
+				"authPIN"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"regist",
+				"register"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title>Lota Motors Ltd</title>\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/style.css\">\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap.css\">\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/animate.css\">\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/font-awesome.min.css\">\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>\n  <script src=\"http://code.jquery.com/jquery-migrate-3.0.0.js\"></script>\n\t<link href=\"https://fonts.googleapis.com/css?family=Montserrat:200\" rel=\"stylesheet\"> \n\t<script type=\"text/javascript\" src=\"js/bootstrap.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/scripts.js\"></script>\n\t<link rel=\"icon\" href=\"images/web-logo.png\">\n</head>\n<body>\n\t<!-- The Static Navigation Bar -->\n\t<nav class=\"navbar navbar-default navbar_default navbar-fixed-top\">\n\t  <div class=\"container-fluid\">\n\t    <!-- Brand and toggle get grouped for better mobile display -->\n\t    <div class=\"navbar-header\">\n\t      <button type=\"button\" class=\"navbar-toggle collapse\" data-toggle=\"collapse\" data-target=\"#navbar_header_links\" aria-expanded=\"false\">\n\t        <span class=\"sr-only\">Toggle navigation</span>\n\t        <span class=\"icon-bar\"></span>\n\t        <span class=\"icon-bar\"></span>\n\t        <span class=\"icon-bar\"></span>\n\t      </button>\n\t      <a class=\"navbar-brand\" href=\"#\" id=\"logo-header\"><div><img src=\"images/web-logo.png\" id=\"pageLogo\" class=\"bigHeaderLogo\"><p id=\"logo-title\" class=\"animated\">Lota Motors</p></div></a>\n\t    </div>\n\n\t    <!-- Collect the nav links, forms, and other content for toggling -->\n\t    <div class=\"collapse navbar-collapse\" id=\"navbar_header_links\">\n\t      <ul class=\"nav navbar-nav navbar-right\">\n\t        <li><a href=\"#\">Home</a></li>\n\t        <li><a href=\"#about\">About</a></li>\n\t        <li class=\"dropdown\">\n\t          <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\">Cars <span class=\"caret\"></span></a>\n\t          <ul class=\"dropdown-menu\">\n\t\t            <li><a href=\"#\">Subaru</a></li>\n\t            <li role=\"separator\" class=\"divider\"></li>\n\t\t            <li><a href=\"#\">Toyota</a></li>\n\t          </ul>\n\t        </li>\n\t        <li><a href=\"#\">Contact Us</a></li>\n\t      </ul>\n\t    </div><!-- /.navbar-collapse -->\n\t  </div><!-- /.container-fluid -->\n\t</nav>\n\t<!-- Up Arrow -->\n\t<a href=\"#header\" id=\"up_arrow\" aria-disabled=false data-toggle=\"tooltip\" title=\"Back to top\">\n\t\t<i class=\"fa fa-fw fa-chevron-up\"></i>\n\t</a>\n\t<!-- Slideshow -->\n\t<div class=\"header-container\">\n\t\t\t<ul id=\"img-slider\">\n\t\t\t\t<li class=\"slidebg\"><div class=\"header_bg\"><img src=\"\" id=\"slidebg\"></div></li>\n\t\t\t\t<li class=\"slide activeSlide\"><div class=\"header_bg\"><img src=\"images/1.jpg\"><div id=\"header-text\" class=\"fadeInUp animated\"><h1>Lota Motors</h1><p>The pursuit of excellence</p></div></div></li>\n\t\t\t\t<li class=\"slide\"><div class=\"header_bg\"><img src=\"images/4.png\"><div id=\"header-text\" class=\"fadeInUp animated\"><img src=\"images/subaru.png\"><br><br><h4>Leading Subaru Dealer in Africa</h4></div></div></li>\n\t\t\t\t<li class=\"slide\"><div class=\"header_bg\"><img src=\"images/3.jpg\"><div id=\"header-text\" class=\"fadeInLeft animated\"><h1>The award winning<br> car dealer</h1><img src=\"images/award1.png\"><br><img src=\"images/award3.png\"><br><img src=\"images/award3.png\"><br><img src=\"images/award4.png\"></div><div></li>\n\t\t\t</ul>\n\t</div>\n\t<!-- About -->\n\t<div class=\"about-content\" id=\"about\">\n\t\t<!-- <a id=\"about\"><h2>About Us</h2></a> -->\n\t\t<ul id=\"about-image-container\">\n\t\t\t<li class=\"col-lg-4 col-md-4 col-sm-4 col-xs-4 transition\"><div class=\"about-bg\"><img src=\"images/1.jpg\"><p id=\"about-text\" class=\"fadeInUp animated\">Introducing none other than \"Lota Automobiles Ltd\", one of the Leading SUBARU and JAPANESE Car Dealers in Kenya.<br><b class=\"read-more-about fadeInUp animated\">Read More</b></p></div></li>\n\t\t\t<li class=\"col-lg-4 col-md-4 col-sm-4 col-xs-4 transition\"><div class=\"about-bg\"><img src=\"images/2.jpg\"><p id=\"about-text\" class=\"fadeInUp animated\">LOTA is manned by a very Professional  and  Service Conscious Staff who provide a Personalized Service that ensures Customer Satisfaction to its Clients.<br><br><b class=\"read-more-about fadeInUp animated\">Read More</b></p></div></li>\n\t\t\t<li class=\"col-lg-4 col-md-4 col-sm-4 col-xs-4 transition\"><div class=\"about-bg\"><img src=\"images/3.jpg\"><p id=\"about-text\" class=\"fadeInUp animated\">Lota Automobiles also has a Wide Sales Network throughout Kenya, including Nairobi, Mombasa and Upcountry.<br><br><b class=\"read-more-about fadeInUp animated\">Read More</b></p></div></li>\n\t\t</ul>\n\t</div>\n\t<!-- Maps -->\n\t<div class=\"map-content\" id=\"map\">\n\t\t\n\t</div>\n\t<!-- Footer -->\n\t<div class=\"footer-content transition\">\n\t\t<div class=\"sitemap\">\n\t\t\t<ul>\n\t\t\t\t<li><h3>SiteMap</h3></li>\n\t\t\t\t<li><a>Home</a></li>\n\t\t\t\t<li><a>About</a></li>\n\t\t\t</ul>\n\t\t</div>\n\t\t<div class=\"sm-icons\" align=\"center\">\n\t\t\t<p>Check out our social media</p>\n\t\t\t<img src=\"images/icons/fbico.png\" class=\"transition\">\n\t\t\t<img src=\"images/icons/igico.png\" class=\"transition\">\n\t\t\t<img src=\"images/icons/twico.png\" class=\"transition\">\n\t\t</div>\n\t\t<!-- Copyright -->\n\t\t<div class=\"copyright-content\">\n\t\t\t<p>Copyright &copy; 2017. Lota Motors Ltd. All Rights Reserved.</p><p>Designed and developed by Ken</p>\n\t\t</div>\n\t</div>\n\t</body>\n</html>",
+			"file": "index.html",
+			"file_size": 5328,
+			"file_write_time": 131380306354503466,
+			"settings":
+			{
+				"buffer_size": 5299,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 146010,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "$(document).ready(function(){\n\t$(\"#up_arrow, .nav li a[href='#about']\").on('click', function(event) {\n\t\tif (this.hash !== \"\") {\n\t\t\tevent.preventDefault();\n\t\t\tvar hash = this.hash;\n\t\t\t$('html, body').animate({\n\t\t\t\tscrollTop: $(hash).offset().top\n\t\t\t}, 1200, function(){\n\t\t\t\twindow.location.hash = hash;\n\t\t\t});\n\t\t}\n\t});\n\n\t$('.dropdown-submenu a.test').on(\"click\", function(e){\n\t\t$(this).next('ul').toggle();\n\t\te.stopPropagation();\n\t\te.preventDefault();\n\t});\n\n\tvar slides = document.querySelectorAll('#img-slider .slide');\n\tconsole.log(slides);\n\tvar currentSlide = 0;\n\tvar slideInterval = setInterval(nextSlide,4500);\n\n\tfunction nextSlide(){\n\t\tgoToSlide(currentSlide+1, 'next');\n\t}\n\n\tfunction prevSlide(){\n\t\tgoToSlide(Math.abs(currentSlide-1), 'prev');\n\t}\n\n\tfunction goToSlide(n, side) {\n\t\t$(\".header-container\").css(\"background-image\", slides[currentSlide].getElementsByTagName('img')[0].src);\n\t    $(\"#slidebg\").attr('src', slides[currentSlide].getElementsByTagName('img')[0].src);\n\t    slides[currentSlide].className = 'slide';\n\t    currentSlide = (n)%slides.length;\n\t    slides[currentSlide].className = 'slide activeSlide '+((side === \"prev\") ? 'fadeInRight' : 'fadeInLeft')+' animated';\n\t}\n\n\t$('.header-container').mousemove(function(e){\n\t\tsetInterval(changePointerDirection(e), 1000);\n\t});\n\n\n\tfunction changePointerDirection(e){\n\t\t$(\".header-container\").addClass((getScreenSide(e) === \"Left\") ? \"leftArrow\" : \"rightArrow\");\n\t\t$(\".header-container\").removeClass((getScreenSide(e) === \"Left\") ? \"rightArrow\" : \"leftArrow\");\n\t}\n\n\t$('.header-container').click(function(e){\n\t\tpauseSlideshow(slideInterval);\n\t\tnavbarAnimation();\n\t\tupArrowAnimation();\n\t\t(getScreenSide(e) === \"Right\") ? nextSlide() : prevSlide();\n\t});\n\n\t$('#about-image-container li').click(function(e){\n\t\tif ($(this).index() == 1) {\n\t\t\t($('#about-image-container li:eq(0)').toggleClass(\"shift-left\"));\n\t\t\t($('#about-image-container li:eq(2)').toggleClass(\"shift-right\"));\t\n\t\t} else if ($(this).index() == 2) {\n\t\t\t($('#about-image-container li:eq(1), #about-image-container li:eq(0)').toggleClass(\"shift-left\"));\n\t\t} else if ($(this).index() == 0) {\n\t\t\t($('#about-image-container li:eq(1), #about-image-container li:eq(2)').toggleClass(\"shift-right\"));\n\t\t}\n\t\t$(this).toggleClass(\"col-lg-4 col-md-4 col-sm-4 col-xs-4\");\n\t\t$(this).toggleClass(\"col-lg-12 col-md-12 col-sm-12 col-xs-12\");\n\t\t// console.log(index);\n\t});\n\n\t// $('#about-image-container li').mouseleave(function(e){\n\t// \t$(this).addClass(\"col-lg-4 col-md-4 col-sm-4 col-xs-4\");\n\t// \t$(this).animate($(this).removeClass(\"col-lg-12 col-md-12 col-sm-12 col-xs-12\"));\n\t// \t// console.log(index);\n\t// });\n});\n\n$(window).scroll(function(){\n\tupArrowAnimation();\n\tnavbarAnimation();\n\tfooterAnimation();\n});\n\nfunction upArrowAnimation(){\n\tif ($(window).scrollTop() > 10) {\n\t\t$(\"#up_arrow\").removeClass(\"animated fadeOutDown\");\n\t\tdocument.getElementById(\"up_arrow\").style.display = 'block';\n\t\t$('#up_arrow').addClass(\"animated fadeInUp\");\n\t} else {\n\t\t// document.getElementById(\"up-arrow\").style.display = 'none';\n\t\t$('#up_arrow').removeClass(\"animated fadeInUp\");\n\t\t$('#up_arrow').addClass(\"animated fadeOutDown\");\n\t}\n}\n\nfunction navbarAnimation(){\n\tif ($(window).scrollTop() > 5) {\n\t\t$(\"nav\").addClass(\"navbar_after\");\n\t\t$(\"nav\").removeClass(\"navbar_default\");\n\t\t$(\"#navbar_header_links li a\").css(\"color\",\"black\");\n\t\t$(\"#pageLogo\").addClass(\"smallHeaderLogo\");\n\t\t$(\"#pageLogo\").removeClass(\"bigHeaderLogo\");\n\t\t$(\"#logo-title\").css(\"display\", \"block\");\n\t\t$(\"#logo-title\").removeClass(\"fadeOutRight\");\n\t\t$(\"#logo-title\").addClass(\"fadeInRight\");\n\t} else {\n\t\t$(\"nav\").removeClass(\"navbar_after\");\n\t\t$(\"nav\").addClass(\"navbar_default\");\n\t\t$(\"#pageLogo\").removeClass(\"smallHeaderLogo\");\n\t\t$(\"#pageLogo\").addClass(\"bigHeaderLogo\");\n\t\t$(\"#logo-title\").removeClass(\"fadeInRight\");\n\t\t$(\"#logo-title\").addClass(\"fadeOutRight\");\n\t}\n}\n\nfunction footerAnimation () {\n\tif ($(window).scrollTop() + $(window).height() > $(document).height() - 100) {\n\t\t$(\".footer-content\").removeClass(\"animated fadeOutDown\");\n\t\t$('.footer-content').addClass(\"animated fadeInUp\");\n\t} else {\n\t\t$('.footer-content').removeClass(\"animated fadeInUp\");\n\t\t$('.footer-content').addClass(\"animated fadeOutDown\");\n\t}\n}\n\nupArrowAnimation();\nnavbarAnimation();\nfooterAnimation();\n\nfunction getScreenSide(e){\n\tvar screenWidth = $(this).innerWidth();\n\tvar screenOffset = $(this).offset().left;\n\tvar x = e.pageX - screenOffset;\n\t// console.log((screenWidth/2 > x) ? \"Left\" : \"Right\");\n\treturn ((screenWidth/2 > x) ? \"Left\" : \"Right\");\n}\n\nfunction pauseSlideshow(slideInterval){\n\tclearInterval(slideInterval);\n}\n\n\nfunction setUpMap(pos){\n\tvar long = parseFloat(pos.split(',').pop());\n\tvar lat = parseFloat(pos.split(',', 1));\n\tconsole.log(long+', '+lat);\n\tvar beaconPos = {lat: lat, lng: long};\n\tvar beaconMap = new google.maps.Map(document.getElementById('beaconAreaMap'), {\n\t\tzoom: 18,\n\t\tcenter: beaconPos\n\t});\n\tvar marker = new google.maps.Marker({\n\t\tposition: beaconPos,\n\t\tmap: beaconMap\n\t});\n\t// var apikey =  \"AIzaSyCEJlvnfS88oJo1ziyp7otJ839JRV_T9T8\";\n}\n\n// $('ul.dropdown-submenu [data-toggle=dropdown]').on('click', function(event) {\n// \t// Avoid following the href location when clicking\n// \tevent.preventDefault();\n// \t// Avoid having the menu to close when clicking\n// \tevent.stopPropagation();\n// \t// If a menu is already open we close it\n// \t$('ul.dropdown-menu [data-toggle=dropdown]').parent().removeClass('open');\n// \t// opening the one you clicked on\n// \t$(this).parent().addClass('open');\n// }); ",
+			"file": "js/scripts.js",
+			"file_size": 5187,
+			"file_write_time": 131380310468645324,
+			"settings":
+			{
+				"buffer_size": 5482,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 9159,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 443.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			]
+		],
+		"width": 527.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/lota",
+		"/C/xampp/htdocs/lota/css",
+		"/C/xampp/htdocs/lota/js"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/uwezokenya/faculty-of-catering/certificate-in-hotel-and-catering/index.php",
+		"/C/Users/John Kennedy/Documents/School/ICS/3rd Year - 1st Sem/Internet Application Programming/Homework/Flexbox/css/style.css",
+		"/C/Users/John Kennedy/Documents/School/ICS/3rd Year - 1st Sem/Internet Application Programming/Homework/Flexbox/index.html",
+		"/C/xampp/htdocs/jkindie/getLyrics.php",
+		"/C/Users/John Kennedy/Documents/School/ICS/3rd Year - 1st Sem/Internet Application Programming/Homework/Flexbox/js/scripts.js",
+		"/C/Users/John Kennedy/AndroidStudioProjects/JKindie2/app/src/main/res/values/colors.xml",
+		"/C/Users/John Kennedy/Documents/School/ICS/3rd Year - 1st Sem/Internet Application Programming/Practicals/FlexBox/index.html",
+		"/C/Users/John Kennedy/Documents/School/ICS/3rd Year - 1st Sem/Internet Application Programming/Practicals/FlexBox/css/style.css",
+		"/C/Users/John Kennedy/Documents/School/ICS/3rd Year - 1st Sem/Internet Application Programming/Practicals/1.html",
+		"/C/Users/John Kennedy/Documents/School/ICS/3rd Year - 1st Sem/Internet Application Programming/Practicals/style.css",
+		"/C/xampp/htdocs/range/getAdUser.php",
+		"/C/Users/John Kennedy/.android/avd/Nexus_5X_API_25.avd/config.ini",
+		"/C/Users/John Kennedy/.android/avd/Nexus_5X_API_25.avd/hardware-qemu.ini",
+		"/C/Users/John Kennedy/.android/avd/Nexus_5X_API_25.avd/emulator-user.ini",
+		"/C/Users/John Kennedy/.android/avd/Nexus_5_API_23.avd/config.ini",
+		"/C/Users/John Kennedy/.android/avd/Nexus_5_API_23.ini",
+		"/C/xampp/htdocs/jkindie/getTracks.php",
+		"/C/Users/John Kennedy/OneDrive/RadiusFourIntegrated (1)/app/src/main/java/com/example/carrie/radiusfour/AdvertActivity.java",
+		"/C/ngrok/ngrok.yml",
+		"/C/Users/John Kennedy/.ngrok2/ngrok.yml",
+		"/C/xampp/htdocs/jkindie/soundcloud.php",
+		"/C/Users/John Kennedy/Downloads/snazzy-maps-example-dark-style.html",
+		"/C/Users/John Kennedy/OneDrive/RadiusFourIntegrated (1)/app/src/main/java/com/example/carrie/radiusfour/Config.java",
+		"/C/Users/John Kennedy/AndroidStudioProjects/Rt/app/src/main/java/com/example/johnk/rt/Home.java",
+		"/C/Users/John Kennedy/AndroidStudioProjects/Rt/app/src/main/res/values/strings.xml",
+		"/C/Users/John Kennedy/AndroidStudioProjects/Rt/app/src/main/java/com/example/johnk/rt/NavDrawerItem.java",
+		"/C/Users/John Kennedy/AndroidStudioProjects/Rt/app/src/main/java/com/example/johnk/rt/NavDrawerListAdapter.java",
+		"/C/xampp/htdocs/range/testjs.html",
+		"/C/xampp/htdocs/range/js/test.js",
+		"/C/xampp/htdocs/jkindie/genWaveform.php",
+		"/C/xampp/htdocs/jkindie/soundcloud-waveform.js",
+		"/C/xampp/htdocs/jkindie/waveform.php",
+		"/C/xampp/htdocs/jkindie/getVideos.php",
+		"/C/Users/John Kennedy/AndroidStudioProjects/RadiusFourIntegrated/app/src/main/res/layout/content_advert.xml",
+		"/C/Users/John Kennedy/AndroidStudioProjects/RadiusFourIntegrated/app/src/main/res/values/dimens.xml",
+		"/C/Users/John Kennedy/AndroidStudioProjects/RadiusFourIntegrated/app/src/main/res/values/strings.xml",
+		"/C/Users/John Kennedy/AndroidStudioProjects/RadiusFourIntegrated/app/src/main/res/values/styles.xml",
+		"/C/Users/John Kennedy/AndroidStudioProjects/RadiusFourIntegrated/app/src/main/res/values-w820dp/dimens.xml",
+		"/C/Users/John Kennedy/AndroidStudioProjects/RadiusFourIntegrated/app/src/main/res/values-v21/styles.xml",
+		"/C/Users/John Kennedy/AndroidStudioProjects/RadiusFourIntegrated/app/src/main/res/layout/activity_advert.xml",
+		"/C/xampp/htdocs/range/login.php",
+		"/C/xampp/htdocs/range/keygen.php",
+		"/C/xampp/htdocs/range/css/animate.editable.css",
+		"/C/xampp/htdocs/range/getAd.php",
+		"/C/xampp/htdocs/range/businessLogic.php",
+		"/C/xampp/htdocs/range/uploadImg.php",
+		"/C/xampp/htdocs/range/getBeaconID.php",
+		"/C/xampp/htdocs/range/genRandomBeacons.php",
+		"/C/xampp/htdocs/range/testUpload.php",
+		"/C/Users/John Kennedy/Desktop/index.html",
+		"/C/xampp/htdocs/range/businessHome.php",
+		"/C/xampp/htdocs/jkindie/getArtistTracks.php",
+		"/C/xampp/htdocs/range/loginUser.php",
+		"/C/xampp/htdocs/range/css/style.css",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Server OS/server.cpp",
+		"/C/xampp/htdocs/range/postAd.php",
+		"/C/xampp/htdocs/range/editAd.php",
+		"/C/xampp/htdocs/range/registerAd.php",
+		"/C/xampp/htdocs/range/home.php",
+		"/C/xampp/htdocs/range/prodCheckoutTest.php",
+		"/C/xampp/htdocs/range/businessLogin.php",
+		"/C/xampp/htdocs/range/beaconBuySuccess.php",
+		"/C/xampp/htdocs/range/ipn.php",
+		"/C/Users/John Kennedy/Desktop/Rt/Art/php/conn.php",
+		"/C/xampp/htdocs/range/regex.txt",
+		"/C/xampp/htdocs/range/conn.php",
+		"/C/xampp/htdocs/jkindie/getTrak.php",
+		"/C/xampp/htdocs/range/loginflat.html",
+		"/C/Users/John Kennedy/Desktop/Rt/upload.php",
+		"/C/Users/John Kennedy/Desktop/Rt/getImages.php",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 3 - Memory Management/Registers.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 3 - Memory Management/CacheMemory.java",
+		"/C/xampp/htdocs/jkindie/getPlaylists.php",
+		"/C/xampp/htdocs/range/payments.php",
+		"/C/Users/John Kennedy/AndroidStudioProjects/JKindie2/app/src/main/java/com/example/johnkennedy/jkindie/TracksActivity.java",
+		"/C/Users/John Kennedy/AndroidStudioProjects/JKindie2/app/src/main/java/com/example/johnkennedy/jkindie/SoundCloudFragment.java",
+		"/C/Users/John Kennedy/Downloads/Compressed/JamboPay_PHP_API/JamboPay_PHP_API/jambopay_php_result_api.php",
+		"/C/xampp/htdocs/range/css/flatstyle.css",
+		"/C/xampp/htdocs/range/css/bootstrap.css",
+		"/C/xampp/htdocs/range/css/animate.css",
+		"/C/xampp/htdocs/range/css/bootstrap.min.css",
+		"/C/xampp/htdocs/range/css/bootstrap.editable.css",
+		"/C/xampp/htdocs/uwezo/wp-config.php",
+		"/C/Users/John Kennedy/Downloads/uwez_wp134.sql",
+		"/C/xampp/htdocs/uwezo/wp-admin/setup-config.php",
+		"/C/xampp/htdocs/uwezo/wp-load.php",
+		"/C/xampp/htdocs/uwezo/wp-login.php",
+		"/C/xampp/htdocs/uwezo/wp-content/index.php",
+		"/C/xampp/htdocs/range/registerUser.php",
+		"/C/Users/John Kennedy/Downloads/Compressed/JamboPay_PHP_API/JamboPay_PHP_API/jambopay_express.php",
+		"/C/xampp/htdocs/range/login.phtml",
+		"/C/Users/John Kennedy/Downloads/Compressed/PayPal-PHP-SDK-master/PayPal-PHP-SDK-master/lib/PayPal/Api/Payment.php",
+		"/F/Caleb/SquadUpdate21.09.2015/data/db/fifa_demo_db.db",
+		"/C/Users/John Kennedy/.VirtualBox/vbox-ssl-cacertificate.crt",
+		"/C/Users/John Kennedy/NTUSER.DAT",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 3 - Memory Management/Muxes.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 6 - Processor Management/Multiplexer.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 2 - Process Management/TwoState.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 2 - Process Management/ResetInput.java",
+		"/C/Users/John Kennedy/Desktop/Java/Trig.java",
+		"/C/Users/John Kennedy/Desktop/Java/Account.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 2 - Process Management/WriteLine.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 2 - Process Management/ReadLine.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 1 - Introduction/MultiProcess.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 1 - Introduction/SingleProcess.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 1 - Introduction/MultiTask.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 1 - Introduction/SingleTask.java",
+		"/C/xampp/htdocs/range/index.php",
+		"/C/xampp/htdocs/range/userRegister.html",
+		"/C/xampp/htdocs/range/register.php",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 6 - Processor Management/Decoder.cpp",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 6 - Processor Management/Flags.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 2 - Process Management/Error.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 4 - IO Management/Buffer.cpp",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 2 - Process Management/Terminate.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 2 - Process Management/Operations.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 6 - Processor Management/ALU.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 6 - Processor Management/Shifter.java",
+		"/C/Users/John Kennedy/Desktop/Java/OS/Chapter 2 - Process Management/ThreeState.java",
+		"/C/Users/John Kennedy/Desktop/Rt/Art/php/login.php",
+		"/C/Users/John Kennedy/Desktop/JKindie/getTracks.php",
+		"/C/Users/John Kennedy/AndroidStudioProjects/JKindie2/app/src/main/java/com/example/johnkennedy/jkindie/Home.java",
+		"/C/Users/John Kennedy/AndroidStudioProjects/JKindie/app/src/main/java/com/example/johnkennedy/jkindie/Home.java",
+		"/C/Users/John Kennedy/AndroidStudioProjects/Rt/app/src/main/res/layout/image_item.xml",
+		"/C/Users/John Kennedy/AndroidStudioProjects/Rt/app/src/main/res/layout/fragment_gallery.xml",
+		"/C/xampp/htdocs/range/loginfllat.html",
+		"/C/Users/John Kennedy/AndroidStudioProjects/Rt/app/src/main/res/layout/activity_pgallery.xml",
+		"/C/Users/John Kennedy/AndroidStudioProjects/RadiusFourIntegrated/app/src/main/res/layout/content_business_register.xml"
+	],
+	"find":
+	{
+		"height": 86.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"95",
+			"span",
+			"about",
+			"title",
+			"0.8",
+			"background-color: white",
+			"purple",
+			"loginBusiness",
+			"showError",
+			"sdcard",
+			"border",
+			"back",
+			"half",
+			");\n",
+			"adListView",
+			"text",
+			"button",
+			"upfile",
+			"images",
+			"button",
+			"Nunito",
+			"Montserrat",
+			"macOSX",
+			"Virtual Machine Name",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"Virtual Machine Name",
+			"font-family: 'Slabo 27px', serif;",
+			"font-family: \"Aleo Light\", \"Tw Cen MT\", \"Tw Cen MT Condensed\", \"Tw Cen MT Condensed Extra Bold\";",
+			"font-family: \"Source Sans Pro Bold\", \"Tw Cen MT\", \"Tw Cen MT Condensed\", \"Tw Cen MT Condensed Extra Bold\";",
+			"font-family: \"Aleo Light\", \"Tw Cen MT\", \"Tw Cen MT Condensed\", \"Tw Cen MT Condensed Extra Bold\";",
+			"font-family",
+			"(\\n)",
+			"(\\d)",
+			"localhost",
+			"buyBeacon",
+			"pinFrom",
+			"showRegister",
+			", \"Tw Cen (MT\"|MT Condensed\"|MT Condensed Extra Bold\")",
+			"\"Tw Cen (MT\"|MT Condensed\"|MT Condensed Extra Bold\")",
+			"Tw Cen MT(| Condensed)",
+			"Tw Cen MT Condensed",
+			"Open Sans",
+			"alert",
+			"Open Sans Light",
+			"button",
+			"Source Sans pro Light",
+			"Source Sans Pro Light",
+			"source sans pro light",
+			"ta(b|bs)",
+			"$",
+			"^",
+			"{m}",
+			"imgUpload",
+			"images",
+			"alert",
+			"5px",
+			");\"><",
+			"();",
+			"opacity",
+			";\n",
+			"jdk1.7.0_79",
+			"tickAd",
+			"}\n",
+			"”",
+			"“",
+			"’",
+			"‘",
+			"“”",
+			"capnum",
+			"\";\n",
+			"date",
+			"background",
+			"back_press"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p",
+			"title",
+			"artist",
+			"0.6",
+			"background-color: rgba(0,0,0,0.8)",
+			"rgba(0,0,0,0.8)",
+			"rgba(0,0,0,0.5)",
+			"Scope One",
+			"Nunito",
+			"macOX",
+			"macOSX",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"macOSX",
+			"font-family: 'Montserrat', sans-serif;",
+			"font-family: 'Slabo 27px', serif;",
+			"/*font-family: \"Source Sans Pro Bold\", \"Tw Cen MT\", \"Tw Cen MT Condensed\", \"Tw Cen MT Condensed Extra Bold\";*/",
+			"/*font-family: \"Aleo Light\", \"Tw Cen MT\", \"Tw Cen MT Condensed\", \"Tw Cen MT Condensed Extra Bold\";*/",
+			"//font-family",
+			"",
+			"\"\"",
+			"127.0.0.1",
+			"pinForm",
+			"",
+			"Aleo",
+			"Nexa Light",
+			"Open Sans Light",
+			"open sans light",
+			"upfile",
+			"img",
+			"jdk1.8.0_101",
+			"tickBeaconAd",
+			"\"",
+			"'",
+			"\"\"",
+			"item"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4649,
+								4649
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/bootstrap.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 146010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145115,
+								145115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 153517.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5027,
+								5027
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2752.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1237,
+								1237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lota.sublime-project",
+	"replace":
+	{
+		"height": 140.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
